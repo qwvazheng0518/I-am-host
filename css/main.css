@@ -1,5 +1,5 @@
 html,body{height:100%;margin:0;background:#0D010E;}
-.index{background:url(../img/bg-hd.png) no-repeat center top;background-size:contain;}
+.index{background:url(../img/bg-hd.jpg) no-repeat center top;background-size:contain;}
 a{-webkit-tap-highlight-color:rgba(0,0,0,0);text-decoration:none;}
 ul{padding:0;margin:0;}
 h1,h2,h3,h4,b{font-weight:normal;}
@@ -25,7 +25,7 @@ table{table-layout: fixed;border-spacing: 0;border-collapse: collapse;}
 .view{overflow:auto;display:inline-block;}
 .view.more:after{content:"";display:inline-block;width:100%;height:4rem;position:fixed;bottom:0;left:0;background:-webkit-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,0.4))}
 .has-tab{padding:5rem 1.5rem 0 1.5rem;}
-.index .app{background-size:contain;background:url(../img/bg-b.png) no-repeat center bottom;}
+.index .app{background-size:contain;background:url(../img/bg-b.jpg) no-repeat center bottom;}
 .login{padding:4rem 2rem;}
 .panel{border-radius:0.5rem;background:rgba(255,255,255,0.15);padding:0 0.5rem;}
 .panel .col{padding:0.5rem 0;}
