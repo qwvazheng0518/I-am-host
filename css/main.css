@@ -55,7 +55,7 @@ table{table-layout: fixed;border-spacing: 0;border-collapse: collapse;}
 .footer .iconfont:after{content:attr(num);position:absolute;font-size:1.6rem;color:#666;font-family:"方正兰亭超细黑简体";top:50%;margin-top:-0.8rem;}
 .footer a:active{background:rgba(0,0,0,0.1)}
 .footer a{width:4rem;transition:0.3s;}
-.ht{height:34rem;}
+.ht{height:38rem;}
 .info{height:6rem;margin:0;}
 .info .col{border-left:1px solid #D4D4D4;width:33.3%;font-size:4rem;}
 .info .col em{font-size:1.2rem;font-style:normal;color:#999;margin-left:0.3rem;}
@@ -84,7 +84,7 @@ table{table-layout: fixed;border-spacing: 0;border-collapse: collapse;}
 /*iphone6 plus*/
 @media screen and (max-width:414px){
   html{font-size:calc(100vw/41.1)}
-  .ht{height:36rem;}
+  .ht{height:38rem;}
 }
 /*iphone5*/
 @media screen and (max-width:320px){
