@@ -25,7 +25,7 @@ table{table-layout: fixed;border-spacing: 0;border-collapse: collapse;}
 .view{overflow:auto;display:inline-block;}
 .view.more:after{content:"";display:inline-block;width:100%;height:4rem;position:fixed;bottom:0;left:0;background:-webkit-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,0.4))}
 .has-tab{padding:5rem 1.5rem 0 1.5rem;}
-.index .app{background:url(../img/bg-b.jpg) no-repeat center bottom;background-size:contain;}
+/*.index .app{background:url(../img/bg-b.jpg) no-repeat center bottom;background-size:contain;}*/
 .login{padding:4rem 2rem;position:absolute;left:0;bottom:0;}
 .panel{border-radius:0.5rem;background:rgba(255,255,255,0.15);padding:0 0.5rem;}
 .panel .col{padding:0.5rem 0;}
